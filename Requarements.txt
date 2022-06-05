@@ -1,6 +1,6 @@
 python-binance
-TA-Lib
-numpy
+ta
+pandas
 backtrader
 flask
 websocket
