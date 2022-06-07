@@ -1,6 +1,0 @@
-python-binance
-ta
-pandas
-backtrader
-flask
-websocket
